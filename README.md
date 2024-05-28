@@ -6,4 +6,5 @@
 <a href="https://discord.gg/https://discord.gg/2nCbC9hkxT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/2nCbC9hkxT" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BobTheBaddie&show_icons=true&theme=dark&locale=en&layout=compact" alt="BobTheBaddie" /></p>
+![images](https://github.com/BobTheBaddie/BobTheBaddie/assets/171065363/212e0296-bdd3-45db-9f05-e51b264914d8)
+
