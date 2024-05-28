@@ -6,6 +6,7 @@
 <a href="https://discord.gg/https://discord.gg/2nCbC9hkxT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/2nCbC9hkxT" height="60" width="80" /></a>
 </p>
 
-![images](https://github.com/BobTheBaddie/BobTheBaddie/assets/171065363/61130abe-b6b8-4906-b9e3-832ec5ff9824)
+![f22e19217479b2452026718bb4c94417](https://github.com/BobTheBaddie/BobTheBaddie/assets/171065363/c2c0db6b-b250-44b7-9df2-edb785b23679) 
 
+![ image]((https://github.com/BobTheBaddie/BobTheBaddie/assets/171065363/c2c0db6b-b250-44b7-9df2-edb785b23679)) with <img src="https://github.com/BobTheBaddie/BobTheBaddie/assets/171065363/c2c0db6b-b250-44b7-9df2-edb785b23679" width="1080" height="1920"> 
 
