@@ -7,7 +7,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BobTheBaddie&show_icons=true&theme=dark&locale=en&layout=compact" alt="BobTheBaddie" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BobTheBaddie&show_icons=true&theme=dark&locale=en" alt="BobTheBaddie" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BobTheBaddie&theme=dark" alt="BobTheBaddie" /></p>
