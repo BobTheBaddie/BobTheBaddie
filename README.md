@@ -8,5 +8,5 @@
 
 ![f22e19217479b2452026718bb4c94417](https://github.com/BobTheBaddie/BobTheBaddie/assets/171065363/c2c0db6b-b250-44b7-9df2-edb785b23679) 
 
-![ image]((https://github.com/BobTheBaddie/BobTheBaddie/assets/171065363/c2c0db6b-b250-44b7-9df2-edb785b23679)) with <img src="https://github.com/BobTheBaddie/BobTheBaddie/assets/171065363/c2c0db6b-b250-44b7-9df2-edb785b23679" width="1080" height="1920"> 
+!<img src="https://github.com/BobTheBaddie/BobTheBaddie/assets/171065363/c2c0db6b-b250-44b7-9df2-edb785b23679" width="1920" height="1080"> 
 
